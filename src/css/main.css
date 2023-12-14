@@ -1,0 +1,13 @@
+.movieTable {
+  display: flex;
+  justify-content: center; }
+  .movieTable table {
+    text-align: center;
+    justify-self: center;
+    border: 1px solid #000; }
+  .movieTable td,
+  .movieTable th {
+    border: 1px solid #000; }
+
+body {
+  text-align: center; }
